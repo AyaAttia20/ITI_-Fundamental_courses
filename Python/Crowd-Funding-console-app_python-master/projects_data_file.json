@@ -1,0 +1,21 @@
+{
+    "projects_data": [
+        {
+            "user_id":"1",
+            "Title": "AI",
+            "details": "AI is more powerful",
+            "tot_target": 2000000,
+            "start_time": "1-1-2024",
+            "end_time": "1-1-2025"
+            
+        },
+        {
+            "user_id":"2",
+            "Title": "Python",
+            "details": "Python is programming language",
+            "tot_target": 10000,
+            "start_time": "2-2-2002",
+            "end_time": "3-3-2003"
+        }
+    ]
+}

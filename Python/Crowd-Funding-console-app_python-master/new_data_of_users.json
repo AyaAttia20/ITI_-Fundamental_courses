@@ -1,0 +1,44 @@
+{
+    "content_user": [
+        {
+            "user_id": "1",
+            "first_name": "aya",
+            "last_name": "attia",
+            "email": "aya@gmail.com",
+            "password": "Aya_123456",
+            "mob_phone": "01234567891"
+        },
+        {
+            "user_id": "2",
+            "first_name": "simba",
+            "last_name": "mufasa",
+            "email": "simba@gmail.com",
+            "password": "Simbaaa_1234",
+            "mob_phone": "01234555678"
+        },
+        {
+            "user_id": "3",
+            "first_name": "ayo",
+            "last_name": "att",
+            "email": "ayo@gmail.com",
+            "password": "Aya@12348",
+            "mob_phone": "01223456667"
+        },
+        {
+            "user_id": "4",
+            "first_name": "aa",
+            "last_name": "ss",
+            "email": "aa@gmail.com",
+            "password": "12345_As",
+            "mob_phone": "012233444556"
+        },
+        {
+            "user_id": "5",
+            "first_name": "coffee",
+            "last_name": "tea",
+            "email": "coffee_tea@gmail.com",
+            "password": "Cof_123456",
+            "mob_phone": "01522787788"
+        }
+    ]
+}
